@@ -9,7 +9,6 @@ A boilerplate project to quickly set up a React application with TypeScript and 
 - [Available Scripts](#available-scripts)
 - [Dependencies](#dependencies)
 - [Dev Dependencies](#dev-dependencies)
-- [License](#license)
 
 ## Features
 
@@ -75,7 +74,3 @@ In the project directory, you can run:
 - `typescript`
 - `webpack`
 - `webpack-cli`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
